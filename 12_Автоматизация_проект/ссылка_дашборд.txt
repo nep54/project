@@ -1,0 +1,17 @@
+https://public.tableau.com/views/Dashboard_yandex_dzen_3/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+	Что не так? Это расстояние? https://disk.yandex.ru/i/gXLYDWLlhwkhFQ
+
+
+
+
+Редактирую графики : https://disk.yandex.ru/i/68ARotaLvTi61w
+	
+	Получается все-равно неровно:
+		
+		https://public.tableau.com/app/profile/kir7226/viz/Dashboard_yandex_dzen_final/Dashboard1#1
+
+
+
+
+Скажи что не так? И как можно задать ширину как 1/3 страницы например?
